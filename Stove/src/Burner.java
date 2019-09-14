@@ -1,5 +1,3 @@
-
-
 public class Burner {
 	public enum Temperature {BLAZING, HOT, WARM, COLD};
 	public final static int TIME_DURATION = 2;
